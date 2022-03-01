@@ -1,7 +1,7 @@
-import Sidebar from "../components/Sidebar";
-import Center from '../components/Center';
+import Sidebar from "../Components/Sidebar";
+import Center from '../Components/Center';
 import { getSession } from "next-auth/react";
-import Player from "../components/Player";
+import Player from "../Components/Player";
 
 const Home = () => {
   return (
